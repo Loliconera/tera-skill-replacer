@@ -1,16 +1,16 @@
 # tera-skill-replacer
 
-Skill Replacer for Tera Proxy. All classes supported. Skill-Prediction and NGSP supported. Enjoy.
+Skill Replacer Todas las clases compatibles. Admite Skill-Prediction y NGSP.
 
-Commands:
+Comandos:
 
-salchyreplacer -> enable/disable the mod
-salchyreplacer reload -> reloads config and skills files
+salchyreplacer -> activa/desactiva el módulo
+salchyreplacer reload -> recarga el archivo de configuración y las habilidades
 
-Description of every skill replacement is provided on skills file. You just need to have an iq higher than 10 to understand how this works.
+La descripción de cada reemplazo de habilidades se proporciona en el archivo **skills.js**.
 
-Have fun.
+Que te diviertas.
 
-### Patch 92.4 and 100.2 supported
+### Se admiten los parches 92.4 y 100.2
 
-### Salchy's updated script
+### Script actualizado de Salchy's
